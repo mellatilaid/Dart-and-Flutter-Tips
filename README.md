@@ -1,8 +1,7 @@
----
-title: 38 Dart & Flutter Tips That Actually Make a Difference in Production
-published: true
-tags: flutter, dart, mobile, performance
----
+
+# 38 Dart & Flutter Tips That Actually Make a Difference in Production
+
+
 
 After 4+ years of building Flutter apps, I've learned that the biggest improvements come from small decisions repeated every day: a safer way to handle a nullable value, a cleaner way to build a list, knowing when `compute()` is worth it, proving a memory leak instead of guessing at it.
 
