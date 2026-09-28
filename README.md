@@ -1,4 +1,4 @@
-# 38 Dart & Flutter Tips That Actually Make a Difference in Production
+# 38 Dart & Flutter Tips That Actually Make a Difference in Writing Clean Code
 
 After 4+ years of building Flutter applications, I’ve learned that the biggest improvements often come from small decisions repeated every day.
 
